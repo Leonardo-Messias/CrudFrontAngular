@@ -1,0 +1,6 @@
+[
+  { "_id": "1", "name": "Angul", "category": "Web" },
+  { "_id": "2", "name": "Java", "category": "Back-end" },
+  { "_id": "3", "name": ".Net", "category": "Back-end" },
+  { "_id": "4", "name": "WebDeveloper FullStack", "category": "FullStack" }
+]
