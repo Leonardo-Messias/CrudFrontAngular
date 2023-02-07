@@ -9,6 +9,14 @@
   margin-top: 5rem;
 }
 
+.loading-spinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5625rem;
+  background-color: rgb(48, 47, 47);
+}
+
 .coursesTitle{
   font-size: 1.5rem;
   font-weight: 600;
