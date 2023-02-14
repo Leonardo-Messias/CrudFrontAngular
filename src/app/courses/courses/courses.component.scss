@@ -1,15 +1,10 @@
-
-
-
-
-
-.card{
+.card {
   display: flex;
   width: 100%;
   margin-top: 5rem;
 }
 
-.loading-spinner{
+.loading-spinner {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +12,7 @@
   background-color: rgb(48, 47, 47);
 }
 
-.coursesTitle{
+.coursesTitle {
   font-size: 1.5rem;
   font-weight: 600;
   color: #fff;
@@ -26,7 +21,11 @@
   display: flex;
 }
 
-
+mat-icon {
+  font-size: 1.2rem;
+  color: rgb(156, 25, 156);
+  margin-left: 0.5rem;
+}
 
 table {
   width: 100%;
@@ -36,12 +35,12 @@ th {
   text-align: left;
   font-style: italic;
   font-weight: 600;
-  color: black
+  color: black;
 }
 
 td {
   text-align: left;
   font-style: italic;
   font-weight: 500;
-  color: black
+  color: black;
 }
